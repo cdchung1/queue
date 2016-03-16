@@ -1,2 +1,2 @@
 # queue
-basic quwuw
+basic queue
